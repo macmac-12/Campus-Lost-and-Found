@@ -640,6 +640,13 @@ function injectSharedStyles() {
     [data-theme='light'] .item-card-title {
       color: #0f172a;
     }
+    [data-theme='light'] .item-card-category {
+      color: #1e40af;
+    }
+    [data-theme='light'] .item-card-desc,
+    [data-theme='light'] .item-card-meta {
+      color: #475569;
+    }
     [data-theme='light'] .form-label,
     [data-theme='light'] label {
       color: #1e3a8a !important;

@@ -1334,7 +1334,7 @@
         // Special render for personal preventive registered belongings
         if (item.type === 'registered') {
           return `
-            <div class="project-card" id="item-card-${item.id}" style="border-color: rgba(59,130,246,0.45); background: rgba(59,130,246,0.04);">
+            <div class="project-card registered-belonging-card" id="item-card-${item.id}" style="border-color: rgba(59,130,246,0.45); background: rgba(59,130,246,0.04);">
               <div class="project-card-header">
                 <div style="flex: 1;">
                   <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 0.5rem;">
@@ -1348,7 +1348,7 @@
                 </div>
               </div>
 
-              <div style="background: rgba(59,130,246,0.08); border: 1px solid rgba(59,130,246,0.22); border-radius: 8px; padding: 0.6rem 0.75rem; margin: 0.5rem 0; font-size: 0.74rem; color: #bfdbfe; line-height: 1.4;">
+              <div class="registered-protection-notice" style="background: rgba(59,130,246,0.08); border: 1px solid rgba(59,130,246,0.22); border-radius: 8px; padding: 0.6rem 0.75rem; margin: 0.5rem 0; font-size: 0.74rem; color: #bfdbfe; line-height: 1.4;">
                 🛡️ <strong>Preventive Protection Active:</strong> Paste QR sticker onto this item. If someone scans it, an anonymous notification goes straight to your account.
               </div>
 

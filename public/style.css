@@ -979,6 +979,43 @@ select option {
   color: #64748b;
 }
 
+[data-theme='light'] .registered-belonging-card {
+  background: #ffffff !important;
+  color: #0f172a !important;
+}
+
+[data-theme='light'] .registered-belonging-card h3 {
+  color: #0f172a !important;
+}
+
+[data-theme='light'] .registered-belonging-card .project-type {
+  color: #1e40af !important;
+}
+
+[data-theme='light'] .registered-belonging-card .ref-code {
+  color: #1d4ed8 !important;
+}
+
+[data-theme='light'] .registered-belonging-card .registered-protection-notice {
+  background: #eff6ff !important;
+  border-color: #93c5fd !important;
+  color: #1e3a8a !important;
+}
+
+[data-theme='light'] .registered-belonging-card > p,
+[data-theme='light'] .registered-belonging-card .card-meta-line,
+[data-theme='light'] .registered-belonging-card .card-meta-line span {
+  color: #334155 !important;
+}
+
+[data-theme='light'] .registered-belonging-card .card-meta-line strong {
+  color: #0f172a !important;
+}
+
+[data-theme='light'] .registered-belonging-card .btn-outline {
+  color: #15803d !important;
+}
+
 [data-theme='light'] .stat-lbl {
   color: #475569 !important;
   font-weight: 700 !important;

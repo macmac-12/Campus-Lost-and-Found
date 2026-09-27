@@ -1,5 +1,27 @@
 [
   {
+    "id": 1790516800016,
+    "refCode": "CSPC-REG-QR-0018",
+    "title": "Infinix Hot 70",
+    "category": "Electronics",
+    "type": "registered",
+    "location": "Campus-wide",
+    "locationDetails": "Purple with \"awa na lang talaga\" sticker",
+    "instructions": "Please, ako na lang.",
+    "contact": "Ma. Franchezka S. Raña (2411060)",
+    "desc": "Valuable belonging: Purple with \"awa na lang talaga\" sticker",
+    "verification": "Purple with \"awa na lang talaga\" sticker",
+    "photo": "",
+    "date": "Sep 27, 2026",
+    "status": "registered",
+    "claimed": false,
+    "reportedBy": "usr-1790509649107",
+    "ownerName": "Ma. Franchezka S. Raña",
+    "ownerEmail": "ma.rana@my.cspc.edu.ph",
+    "notifications": [],
+    "createdAt": "2026-09-27T13:46:40.241Z"
+  },
+  {
     "id": 1790513779895,
     "refCode": "CSPC-LF-2026-017",
     "title": "Nalaman",
